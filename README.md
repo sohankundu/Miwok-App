@@ -10,7 +10,7 @@ The Numbers category lists the single digit English numbers and their Miwok tran
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/103856199-45daec80-50da-11eb-9054-4f06e1277df4.jpg" alt="Numbers" height="20%" width="20%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/103856199-45daec80-50da-11eb-9054-4f06e1277df4.jpg" alt="Numbers" height="40%" width="40%"></p>
 <br>
 <br>
 
@@ -20,7 +20,7 @@ The Family category lists the English names of the family members and their Miwo
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/103856210-48d5dd00-50da-11eb-8e6d-443cd5cb37e2.jpg" alt="Family" height="20%" width="20%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/103856210-48d5dd00-50da-11eb-8e6d-443cd5cb37e2.jpg" alt="Family" height="40%" width="40%"></p>
 <br>
 <br>
 
@@ -30,7 +30,7 @@ The Colors category lists the English words for some common colors and their Miw
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/103856208-483d4680-50da-11eb-876b-e1b7448e9b93.jpg" alt="Colors" height="20%" width="20%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/103856208-483d4680-50da-11eb-876b-e1b7448e9b93.jpg" alt="Colors" height="40%" width="40%"></p>
 <br>
 <br>
 
@@ -39,7 +39,7 @@ The Phrases category lists some common English phrases and their Miwok translati
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/103856204-47a4b000-50da-11eb-95c5-2e62eec8e89a.jpg" alt="Phrases" height="20%" width="20%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/103856204-47a4b000-50da-11eb-95c5-2e62eec8e89a.jpg" alt="Phrases" height="40%" width="40%"></p>
 <br>
 <br>
 
